@@ -28,25 +28,27 @@
 
 ## 📂 Project Structure
 
+```text
 freddys-pizza/
 │
-├── .claude/ # AI workflow configuration and project instructions
-├── .expo/ # Expo development environment files
-├── .vscode/ # VS Code workspace settings
-├── assets/ # Images, icons, fonts, and static resources
-├── node_modules/ # Installed project dependencies
-├── scripts/ # Development and automation scripts
-├── src/ # Application source code
+├── .claude/            # AI workflow configuration and project instructions
+├── .expo/              # Expo development environment files
+├── .vscode/            # VS Code workspace settings
+├── assets/             # Images, icons, fonts, and static resources
+├── node_modules/       # Installed project dependencies
+├── scripts/            # Development and automation scripts
+├── src/                # Application source code
 │
-├── .gitignore # Git ignore rules
-├── AGENTS.md # AI agent project instructions
-├── app.json # Expo application configuration
-├── CLAUDE.md # Claude AI project context
-├── expo-env.d.ts # Expo TypeScript environment definitions
-├── package-lock.json # Dependency lock file
-├── package.json # Project dependencies and scripts
-├── README.md # Project documentation
-└── tsconfig.json # TypeScript configuration
+├── .gitignore          # Git ignore rules
+├── AGENTS.md           # AI agent project instructions
+├── app.json            # Expo application configuration
+├── CLAUDE.md           # Claude AI project context
+├── expo-env.d.ts       # Expo TypeScript environment definitions
+├── package-lock.json   # Dependency lock file
+├── package.json        # Project dependencies and scripts
+├── README.md           # Project documentation
+└── tsconfig.json       # TypeScript configuration
+```
 
 ---
 
