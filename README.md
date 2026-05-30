@@ -1,56 +1,178 @@
-# Welcome to your Expo app 👋
+# 🍕 Freddy's Pizza – Modern Pizza Delivery, Simplified
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<table>
+  <tr>
+    <td width="40%">
+      <img src="assets/images/freddys-pizza-banner.png" alt="Freddy's Pizza Logo" width="100%" />
+    </td>
+    <td width="60%">
+      Welcome to <strong>Freddy's Pizza</strong> — a modern full-stack mobile food ordering application built using <strong>React Native</strong>, <strong>Expo</strong>, <strong>Clerk Authentication</strong>, and <strong>Convex</strong>. This project showcases modern mobile application development practices, real-time backend integration, authentication workflows, and AI-assisted software engineering techniques.
+    </td>
+  </tr>
+</table>
 
-## Get started
+---
 
-1. Install dependencies
+## 🔍 Features
 
-   ```bash
-   npm install
-   ```
+- 🍕 **Interactive Pizza Menu** — Browse available pizzas, deals, and featured items.
+- 🛒 **Shopping Cart System** — Add, remove, and manage orders seamlessly.
+- 🔐 **Secure Authentication** — User registration and login powered by Clerk.
+- ⚡ **Real-Time Backend** — Instant data synchronization using Convex.
+- 📱 **Mobile-First Experience** — Designed specifically for mobile users.
+- 🧑‍💼 **Admin Dashboard** — Manage products, orders, and application data.
+- 🤖 **AI-Assisted Development** — Built using modern AI development workflows with Cursor.
+- 🎯 **Scalable Architecture** — Structured for future expansion and production-ready features.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 📂 Project Structure
 
-In the output, you'll find options to open the app in a
+freddys-pizza/
+│
+├── .claude/ # AI workflow configuration and project instructions
+├── .expo/ # Expo development environment files
+├── .vscode/ # VS Code workspace settings
+├── assets/ # Images, icons, fonts, and static resources
+├── node_modules/ # Installed project dependencies
+├── scripts/ # Development and automation scripts
+├── src/ # Application source code
+│
+├── .gitignore # Git ignore rules
+├── AGENTS.md # AI agent project instructions
+├── app.json # Expo application configuration
+├── CLAUDE.md # Claude AI project context
+├── expo-env.d.ts # Expo TypeScript environment definitions
+├── package-lock.json # Dependency lock file
+├── package.json # Project dependencies and scripts
+├── README.md # Project documentation
+└── tsconfig.json # TypeScript configuration
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🌐 Project Goals
 
-## Get a fresh project
+This project is being developed to gain hands-on experience with:
 
-When you're ready, run:
+- Full-Stack Mobile Development
+- React Native & Expo Ecosystem
+- Authentication Systems
+- Real-Time Backend Services
+- Modern Software Architecture
+- AI-Assisted Development Workflows
+- Professional Git & GitHub Practices
+
+---
+
+## 📸 Screenshots
+
+> Screenshots will be added as development progresses.
+
+- Home Screen
+- Authentication Screens
+- Pizza Menu
+- Shopping Cart
+- Checkout Flow
+- Admin Dashboard
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+- React Native
+- Expo SDK 55
+- TypeScript
+
+### Backend
+
+- Convex
+
+### Authentication
+
+- Clerk
+
+### Development Tools
+
+- Cursor AI
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## ⚙️ How to Run
+
+### 🖥️ Run Locally
+
+1. Clone the repository.
 
 ```bash
-npm run reset-project
+git clone https://github.com/chalitha-wickramasingha/freddys-pizza.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+2. Navigate to the project directory.
 
-### Other setup steps
+```bash
+cd freddys-pizza
+```
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+3. Install dependencies.
 
-## Learn more
+```bash
+npm install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+4. Start the development server.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npx expo start
+```
 
-## Join the community
+5. Scan the QR code using Expo Go on your mobile device.
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🚧 Project Status
+
+Currently under active development.
+
+Planned functionality includes:
+
+- User Authentication
+- Pizza Menu Management
+- Cart & Checkout System
+- Order Tracking
+- Real-Time Updates
+- Admin Management Portal
+- Push Notifications
+- Payment Integration
+
+---
+
+## 🎓 Learning Journey
+
+This project is part of my personal software engineering portfolio and learning journey focused on:
+
+- Mobile Application Development
+- AI-Assisted Coding
+- Modern Development Workflows
+- Full-Stack Application Design
+- Production-Oriented Project Structure
+
+---
+
+## 👨‍💻 Author
+
+**Chalitha Wickramasinghe**
+
+🔗 GitHub: https://github.com/chalitha-wickramasingha
+
+🔗 LinkedIn: https://www.linkedin.com/in/chalitha-t-wickramasingha
+
+---
+
+> 🍕 Building modern mobile experiences, one slice at a time.
+>
+> Thank you for visiting Freddy's Pizza!
