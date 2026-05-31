@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="40%">
-      <img src="assets/images/freddys-pizza-banner.png" alt="Freddy's Pizza Logo" width="100%" />
+      <img src="mobile/assets/images/freddys-pizza-banner.png" alt="Freddy's Pizza Logo" width="100%" />
     </td>
     <td width="60%">
       Welcome to <strong>Freddy's Pizza</strong> — a modern full-stack mobile food ordering application built using <strong>React Native</strong>, <strong>Expo</strong>, <strong>Clerk Authentication</strong>, and <strong>Convex</strong>. This project showcases modern mobile application development practices, real-time backend integration, authentication workflows, and AI-assisted software engineering techniques.
